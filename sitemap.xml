@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Service Pages -->
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/services/exterior-foundation-waterproofing</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/services/exterior-foundation-crack-repair-for-waterproofing</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/services/exterior-grading-and-landscaping-for-basement-waterproofing</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/services/french-drain-installation-for-exterior-foundation-waterproofing</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Location Pages -->
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/areas-we-serve/cherry-hill-08034</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/areas-we-serve/haddontowne-08034</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/areas-we-serve/ashland-08034</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/areas-we-serve/kingston-estates-08034</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/areas-we-serve/barclay-farm-08034</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/areas-we-serve/brookfield-08003</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog Pages -->
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/blog/</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/blog/how-to-spot-and-fix-exterior-foundation-cracks-cherry-hill-expert-advice</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/blog/why-exterior-grading-is-essential-for-basement-waterproofing-in-cherry-hill</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/blog/5-landscaping-tips-to-prevent-exterior-foundation-leaks-in-cherry-hill</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://exterior-foundation-waterproofing-cherry-hill.vercel.app/blog/top-rated-exterior-basement-waterproofing-solutions-in-cherry-hill</loc>
+    <lastmod>2025-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
